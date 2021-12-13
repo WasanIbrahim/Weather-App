@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/other"
+        android:title="Add your city"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/NY"
+        android:title="NewYork, US"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mekkah"
+        android:title="Mekkah ,KSA"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/riyadh"
+        android:title="Riyadh, KSA"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/jeddah"
+        android:title="Jeddah, KSA"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/tabuk"
+        android:title="Tabuk, KSA"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/LA"
+        android:title="Los Angeles, US"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/boston"
+        android:title="boston,US"
+        app:showAsAction="never" />
+
+
+
+
+
+
+
+</menu>
